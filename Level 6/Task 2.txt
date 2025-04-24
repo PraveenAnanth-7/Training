@@ -1,0 +1,22 @@
+1. Population
+A population refers to the entire set of individuals, items, or data points that share a common characteristic of interest in a study. It’s the complete group from which researchers seek to draw conclusions.
+
+Examples:
+• Every family residing in a specific city
+• All enrolled students at a particular university
+• The full workforce of a company
+
+Scenario Application:
+Population = All families living in the city
+
+2. Sample
+A sample is a subset or portion of the population selected for the purpose of study. When it’s not feasible to collect data from the whole population, a sample provides a practical way to gain insights.
+
+Examples:
+• Collecting responses from 200 students instead of the whole university
+• Interviewing 1,000 residents to estimate election preferences
+• Reviewing the performance of 50 out of 1,000 employees
+
+Scenario Application:
+Sample = 100 households chosen for the survey
+

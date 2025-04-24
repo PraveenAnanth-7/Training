@@ -1,0 +1,50 @@
+Sampling Techniques
+Sampling involves selecting a portion of individuals from a larger population to analyze trends, opinions, or behaviors. The method chosen plays a crucial role in the quality, fairness, and reliability of the results.
+
+1. Simple Random Sampling
+In this method, every member of the population has an equal probability of being chosen. Selection is completely random and not influenced by any characteristic or grouping.
+
+Examples:
+• Drawing 100 employee names randomly from the entire company database
+• Using a computerized random number generator to select survey participants
+
+Advantages:
+ Reduces selection bias
+Disadvantages:
+ May not guarantee representation from all relevant subgroups
+
+2. Stratified Sampling
+Here, the population is divided into distinct categories or groups (called strata) based on shared characteristics like departments or job levels. A sample is then drawn proportionally from each stratum.
+
+Examples:
+• Sampling employees from each department according to its size
+• Collecting input from staff based on role (e.g., junior, mid-level, senior)
+
+Advantages:
+ Ensures balanced representation from all sections of the population
+Disadvantages:
+ Requires prior knowledge of the population structure
+
+3. Systematic Sampling
+This technique selects participants at regular, fixed intervals from a pre-ordered list.
+
+Examples:
+• Picking every 5th name from a company roster
+• Surveying every 10th visitor on a website or intranet
+
+Advantages:
+ Easy to implement and time-efficient
+Disadvantages:
+ Can introduce bias if the list contains a recurring pattern
+
+4. Convenience Sampling
+Participants are chosen based on ease of access or immediate availability, not through randomization or structured selection.
+
+Examples:
+• Surveying employees who are attending a particular meeting
+• Gathering opinions from staff in one office wing
+
+Advantages:
+ Quick and cost-saving
+Disadvantages:
+ Highly prone to bias and not representative of the broader group

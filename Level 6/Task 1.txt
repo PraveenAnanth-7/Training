@@ -1,0 +1,22 @@
+1. Descriptive Statistics
+Descriptive statistics involve techniques for summarizing and organizing data in a meaningful way. They offer a clear snapshot of a dataset without drawing any broader conclusions.
+
+Main Aspects of Descriptive Statistics:
+• Central Tendency Measures: Average (Mean), Middle value (Median), Most frequent value (Mode)
+• Spread or Dispersion Measures: Minimum and Maximum range, Variability (Variance), Data spread (Standard Deviation)
+• Visual Representations: Data Tables, Pie Charts, Bar Graphs, Histograms
+
+Illustration:
+If the average marks of a class are found to be 85%, it provides a simple overview of that class’s performance, without extending the insight to other classes or schools.
+
+2. Inferential Statistics
+Inferential statistics deal with making predictions or generalizations about a larger population using data from a sample. It supports decision-making and hypothesis evaluation.
+
+Core Methods in Inferential Statistics:
+• Hypothesis Testing Methods: t-tests, ANOVA (Analysis of Variance), Chi-Square Tests
+• Confidence Estimation: Constructing confidence intervals to estimate population values
+• Regression Modeling: Identifying and predicting variable relationships
+• Correlation Measurement: Assessing the strength and direction of relationships between variables
+
+Example:
+From a study involving 500 individuals, it's estimated that 60% of the entire city’s population prefers online shopping. This inference is drawn from a subset (sample) to represent the whole (population).
